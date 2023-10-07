@@ -1,0 +1,9 @@
+export const _CREATED = `Registro creado`;
+export const _UPDATED = `Registro actualizado`;
+export const _ERROR = `Existió un error`;
+export const _ONE_FOUND = `Registro encontrado`;
+export const _NOT_ONE_FOUND = `Registro no encontrado`;
+export const _FOUND = `Registros encontrados`;
+export const _NOT_FOUND = `No hay registros`;
+export const _BIRTH_WEIGHT = `Peso de nacimiento`;
+export const _BREEDING_ANIMAL = `El macho debe ser un reproductor`;
